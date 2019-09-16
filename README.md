@@ -1,19 +1,19 @@
 # q2a-lang-de-formal ("Sie")
 
-Deutsche Sprachdatei für Question2Answer (Q2A) Version 1.8
+German language pack for Question2Answer (Q2A) version 1.8
 https://www.question2answer.org/
 
-## Projekt-Status: ##
-**Diese Dateien funktionieren unter Q2A-Version 1.8, sind jedoch noch nicht vollständig übersetzt.**
+## Project-Status: ##
+**These files will work with Q2A version 1.8. However, translation is still incomplete.**
 
-* Sprachdateien von Q2A-Version 1.7 um neue Strings der Version 1.8 ergänzt.
-* Übersetzung der neuen Strings begonnen.
-* ''qa-lang-admin.php'' und ''qa-lang-options.php'' aus 1.8 übernommen
-* Übersetzung von ''qa-lang-admin.php'' begonnen
+* Added new strings from Q2A version 1.8 to language pack of Q2A version 1.7.
+* Started translation of new strings.
+* `qa-lang-admin.php` and `qa-lang-options.php` of 1.8 included.
+* Started translation of `qa-lang-admin.php`.
 
-## Sprachdateien installieren: ##
+## How to install language pack: ##
 
-* Download letzte Version https://github.com/fulgor/q2a-lang-de-formal/archive/master.zip
-* master.zip entpacken
-* Verzeichnis de via FTP in das Verzeichnis /qa-lang/ kopieren
-* Im Q2A-Adminbereich -> General -> Site language -> German-Deutsch -> Save Options
+* Download https://github.com/fulgor/q2a-lang-de-formal/archive/master.zip
+* Unzip master.zip
+* Copy folder into `/qa-lang/`folder on server.
+* In Q2A-Admin goto `General -> Site language`, select `German-Deutsch` then `Save Options`.
