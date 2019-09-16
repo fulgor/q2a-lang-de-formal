@@ -1,12 +1,13 @@
 <?php
 
 /*
+
     Question2Answer by Gideon Greenspan and contributors
     http://www.question2answer.org/
 
-    File: qa-lang/de-SIE/qa-lang-question.php
+    File: qa-lang/de/qa-lang-question.php
     Version: 1.8
-    Date: 2019-09-12
+    Date: 2019-09-16
     Description: Language phrases for question page in German
     Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
 
