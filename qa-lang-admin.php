@@ -5,8 +5,8 @@
 
     File: qa-lang/de/qa-lang-admin.php
     Version: 1.8
-    Date: 2019-09-12
-	Description: Language phrases for admin center in formal German (Sie)
+    Date: 2019-09-16
+    Description: Language phrases for admin center in formal German (Sie)
     Translation: Fulgor@github
 
 	This program is free software; you can redistribute it and/or
@@ -43,21 +43,21 @@ return array(
 	'approve_users_title' => 'Bestätige Nutzer',
 	'basic_editor' => 'Basis Editor',
 	'before_main_menu' => 'Vor den oberen Tabs',
-	'blobs_directory_error' => 'The directory ^ defined as QA_BLOBS_DIRECTORY is not writable by the web server.',
-	'blobs_move_complete' => 'Migration of uploaded images and documents completed.',
-	'blobs_move_moved' => 'Migration ^1 of ^2 uploaded images and documents',
-	'blobs_stop' => 'Stop migrating',
-	'blobs_to_db' => 'Blobs to database',
-	'blobs_to_db_note' => '- migrate all uploaded images and documents from disk files to the database',
-	'blobs_to_disk' => 'Blobs to disk',
-	'blobs_to_disk_note' => '- migrate all uploaded images and documents from the database to disk files',
+	'blobs_directory_error' => 'Für das als QA_BLOBS_DIRECTORY definierte Verzeichnis ^ fehlen die Schreibrechte auf dem Server.',
+	'blobs_move_complete' => 'Übertragung der hochgeladenen Bilder und Dokumente ageschlossen.',
+	'blobs_move_moved' => 'Übertrage ^1 von ^2 der hochgeladenen Bilder und Dokumente',
+	'blobs_stop' => 'Übertragung angehalten',
+	'blobs_to_db' => 'Blobs zur Datenbank',
+	'blobs_to_db_note' => '- übertrage alle hochgeladenen Bilder und Dokumente zur Datenbank',
+	'blobs_to_disk' => 'Blobs zur Festplatte',
+	'blobs_to_disk_note' => '- übertrage alle hochgeladenen Bilder und Dokumente von der Datenbank zur Festplatte',
 	'block_button' => 'block',
-	'block_ips_note' => 'Use a hyphen for ranges or * to match any number. Examples: 192.168.0.4 , 192.168.0.0-192.168.0.31 , 192.168.0.*',
-	'block_user_popup' => 'Block user',
-	'block_words_note' => 'Use a * to match any letters. Examples: doh (will only match exact word doh) , doh* (will match doh or dohno) , do*h (will match doh, dooh, dough).',
-	'caching_cleanup' => 'Caching clean-up operations',
-	'caching_delete_all' => 'Delete entire cache',
-	'caching_delete_complete' => 'Cache successfully deleted',
+	'block_ips_note' => 'Nutzen Sie "-" für Bereiche oder "*" als Variable für jede Zahl. Beispiele: 192.168.0.4 , 192.168.0.0-192.168.0.31 , 192.168.0.*',
+	'block_user_popup' => 'Block Nutzer',
+	'block_words_note' => 'Nutzen Sie "*" für jeden Buchstaben. Beispiele: doh (passt nur auf "doh") , doh* (passt auf "doh" oder "dohno") , do*h (passt auf "doh", "dooh", "dough").',
+	'caching_cleanup' => 'Aufräumen des Caches',
+	'caching_delete_all' => 'Ganzen Cache löschen',
+	'caching_delete_complete' => 'Cache erfolgreich gelöscht',
 	'caching_delete_expired' => 'Delete expired cache',
 	'caching_delete_progress' => 'Deleted ^1 of ^2 cache files...',
 	'caching_dir_error' => 'The directory ^ defined as QA_CACHE_DIRECTORY is not writable by the web server.',
