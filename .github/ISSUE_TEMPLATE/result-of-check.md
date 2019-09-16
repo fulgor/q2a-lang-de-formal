@@ -6,9 +6,9 @@ labels: 'tqm'
 assignees: ''
 
 ---
-key | value
--------|------
-File        | qa-lang-emails.php
-Variable | confirm_body
-Message  | omitted the substitution ^code
+key      | value
+---------|-------
+File     | 
+Variable | 
+Message  | 
 
