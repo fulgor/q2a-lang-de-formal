@@ -1,16 +1,14 @@
 <?php
 
 /*
-	Question2Answer 1.4 (c) 2011, Gideon Greenspan
+        Question2Answer by Gideon Greenspan and contributors
+        http://www.question2answer.org/
 
-	http://www.question2answer.org/
-
-
-	File: qa-lang/de-SIE/qa-lang-profile.php
-	Version: 1.4
-	Date: 2011-06-25
+	File: qa-lang/de/qa-lang-profile.php
+	Version: 1.8
+	Date: 2019-09-19
 	Description: Language phrases for user profile page in German
-	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf
+	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
 
 
 	This program is free software; you can redistribute it and/or
@@ -59,7 +57,7 @@
 		'post_wall_button' => 'Auf die Pinnwand schreiben',
 		'post_wall_empty' => 'Bitte einen Eintrag für die Pinnwand verfassen',
 		'post_wall_limit' => 'Sie dürfen diese Stunde keine weiteren Pinnwand-Einträge mehr schreiben',
-		'post_wall_must_be_approved' => 'Ihr Konto muss genehmigt werden bevor Sie auf diese Pinnwand schreiben dürfen.',
+		'post_wall_must_be_approved' => 'Ihr Konto muss genehmigt werden bevor Sie auf diese Pinnwand schreiben dürfen. Bitte warten Sie oder ^1fügen Sie weitere Informationen hinzu^2.',
 		'post_wall_must_confirm' => 'Bitte ^5bestätigen Sie Ihre E-Mail Adresse^6 um auf diese Pinnwand zu schreiben.',
 		'post_wall_must_login' => 'Bitte ^1melden Sie sich an^2 oder ^3registrieren sich^4 um auf diese Pinnwand zu schreiben.',
 		'questions_by_x' => 'Fragen von ^',
