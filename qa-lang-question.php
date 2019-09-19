@@ -7,7 +7,7 @@
 
     File: qa-lang/de/qa-lang-question.php
     Version: 1.8
-    Date: 2019-09-16
+    Date: 2019-09-19
     Description: Language phrases for question page in German
     Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
 
@@ -44,7 +44,7 @@
         'anon_name_label' => 'Ihr anzuzeigender Name (optional):',
         'answer_button' => 'Antworten',
         'answer_limit' => 'Zu viele Antworten erhalten - Bitte versuchen Sie es in einer Stunden wieder',
-        'answer_must_be_approved' => 'Ihr Konto muss genehmigt werden bevor Sie Fragen beantworten dürfen.',
+        'answer_must_be_approved' => 'Ihr Konto muss genehmigt werden bevor Sie Fragen beantworten dürfen. Bitte warten Sie oder ^1fügen Sie weitere Informationen hinzu^2.',
         'answer_must_confirm' => 'Bitte ^5bestätigen Sie Ihre E-Mail-Adresse^6 um die Frage zu beantworten.',
         'answer_must_login' => 'Bitte ^1melden Sie sich an^2 oder ^3registrieren sich^4 um die Frage zu beantworten.',
         'answer_q_popup' => 'Diese Frage beantworten',
@@ -56,7 +56,7 @@
         'ask_follow_from_a' => 'Ihre Frage hat Ähnlichkeit mit folgender Antwort:',
         'ask_follow_title' => 'Eine ähnliche Frage stellen',
         'ask_limit' => 'Zu viele Fragen erhalten - Bitte versuchen Sie es in einer Stunde wieder',
-        'ask_must_be_approved' => 'Ihr Konto muss genehmigt werden bevor Sie Fragen stellen dürfen.',
+        'ask_must_be_approved' => 'Ihr Konto muss genehmigt werden bevor Sie Fragen stellen dürfen. Bitte warten Sie oder ^1fügen Sie weitere Informationen hinzu^2.',
         'ask_must_confirm' => 'Bitte ^5bestätigen Sie Ihre E-Mail-Adresse^6 um eine Frage zu stellen.',
         'ask_must_login' => 'Bitte ^1melden Sie sich an^2 oder ^3registrieren sich^4 um eine Frage zu stellen.',
         'ask_same_q' => 'Bitte schauen Sie, ob Ihre Frage nicht vielleicht schon gestellt wurde, bevor Sie fortfahren:',
@@ -89,7 +89,7 @@
         'comment_a_popup' => 'Diese Antwort kommentieren',
         'comment_button' => 'Kommentar abgeben',
         'comment_limit' => 'Zu viele Kommentare erhalten - Bitte versuchen Sie es in einer Stunden wieder',
-        'comment_must_be_approved' => 'Ihr Konto muss genehmigt werden bevor Sie kommentieren dürfen.',
+        'comment_must_be_approved' => 'Ihr Konto muss genehmigt werden bevor Sie kommentieren dürfen. Bitte warten Sie oder ^1fügen Sie weitere Informationen hinzu^2.',
         'comment_must_confirm' => 'Bitte ^5bestätigen Sie Ihre E-Mail-Adresse^6 um zu kommentieren.',
         'comment_must_login' => 'Bitte ^1melden Sie sich an^2 oder ^3registrieren sich^4 um zu kommentieren.',
         'comment_on_a' => 'Zur Antwort: ',
