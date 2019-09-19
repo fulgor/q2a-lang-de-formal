@@ -5,7 +5,7 @@
 
     File: qa-lang/de/qa-lang-admin.php
     Version: 1.8
-    Date: 2019-09-16
+    Date: 2019-09-19
     Description: Language phrases for admin center in formal German (Sie)
     Translation: Fulgor@github
 
@@ -27,7 +27,7 @@ return array(
 	'add_category_button' => 'Kategorie hinzufügen',
 	'add_field_button' => 'Feld hinzufügen',
 	'add_link_button' => 'Link  hinzufügen',
-	'add_link_link' => ' - ^Link hinzufügen^2',
+	'add_link_link' => ' - ^1Link hinzufügen^2',
 	'add_new_field' => 'Neues Feld hinzufügen',
 	'add_new_title' => 'Neuen Titel hinzufügen',
 	'add_page_button' => 'Seite hinzufügen',
