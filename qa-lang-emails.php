@@ -1,16 +1,13 @@
 <?php
 
-/*
-	Question2Answer 1.4 (c) 2011, Gideon Greenspan
-
-	http://www.question2answer.org/
-
-
-	File: qa-lang/de-SIE/qa-lang-emails.php
-	Version: 1.4
-	Date: 2011-06-25
+/*	Question2Answer by Gideon Greenspan and contributors
+	http://www.question2answer.org
+	
+	File: qa-lang/de/qa-lang-emails.php
+	Version: 1.8
+	Date: 2019-09-19
 	Description: Language phrases for email notifications in German
-	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf
+	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
 
 
 	This program is free software; you can redistribute it and/or
@@ -35,7 +32,7 @@
 		'a_selected_subject' => 'Ihre Antwort bei ^site_title wurde als beste ausgewählt!',
 		'c_commented_body' => "Bei ^site_title hat ^c_handle einen neuen Kommentar nach Ihrem Kommentar hinterlassen:\n\n^open^c_content^close\n\nHier finden Sie die Unterhaltung:\n\n^open^c_context^close\n\nSie können mit einem eigenen Kommentar antworten:\n^url\n\nVielen Dank\n\n^site_title",
 		'c_commented_subject' => 'Ihr Kommentar bei ^site_title wurde hinzugefügt zu',
-		'confirm_body' => "Bitte klicken Sie den folgenden Link, um Ihre E-Mail-Adresse bei ^site_title zu bestätigen:\n^url\n\nVielen Dank\n\n^site_title",
+                'confirm_body' => "Bitte klicken Sie den folgenden Link, um Ihre E-Mail-Adresse bei ^site_title zu bestätigen:\n^url\n\nBestätigungscode: ^code\n\nVielen Dank\n\n^site_title",
 		'confirm_subject' => '^site_title - E-Mail-Adresse bestätigen',
 		'feedback_body' => "Kommentare:\n^message\n\nName:\n^name\n\nE-Mail:\n^email\n\nVorherige Seite:\n^previous\n\nKonto:\n^url\n\nIP-Addresse:\n^ip\n\nBrowser:\n^browser",
 		'feedback_subject' => '^ Feedback',
