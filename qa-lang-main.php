@@ -230,10 +230,10 @@
     '_millions_suffix' => "m",
     '_thousands_separator' => ",",
     '_thousands_suffix' => "k",
-    'newest_users' => "Newest users",
+    'newest_users' => "Neueste Nutzende",
     'vote_disabled_hidden_post' => "Sie können versteckte Einträge nicht bewerten",
-    'vote_disabled_my_post' => "You cannot vote on your own posts",
-    'vote_disabled_queued' => "You can only vote on approved posts",
+    'vote_disabled_my_post' => "Sie können eigene Einträge nicht bewerten",
+    'vote_disabled_queued' => "Sie können nur bestätigte Einträge bewerten",
 
 
 /*
