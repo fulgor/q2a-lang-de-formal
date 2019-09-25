@@ -17,3 +17,4 @@ https://www.question2answer.org/
 * Unzip master.zip
 * Copy folder into `/qa-lang/`folder on server.
 * In Q2A-Admin goto `General -> Site language`, select `German-Deutsch` then `Save Options`.
+* (Delete `/qa-lang/qa-lang-admin.php` and `/qa-lang/qa-lang-options.php`, to show backend in English.)
