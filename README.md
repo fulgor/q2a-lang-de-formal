@@ -4,11 +4,11 @@ German language pack for Question2Answer (Q2A) version 1.8
 https://www.question2answer.org/
 
 ## Project-Status: ##
-**These files will work with Q2A version 1.8. However, translation is still incomplete.**
+**These files will work with Q2A version 1.8 frontend. (Translation of backend is incomplete.)**
 
 * Added new strings from Q2A version 1.8 to language pack of Q2A version 1.7.
-* Started translation of new strings.
-* `qa-lang-admin.php` and `qa-lang-options.php` of 1.8 included.
+* Frontend: new strings of 1.8 are translated.
+* Backend: `qa-lang-admin.php` and `qa-lang-options.php` of 1.8 included.
 * Started translation of `qa-lang-admin.php`.
 
 ## How to install language pack: ##
