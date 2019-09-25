@@ -6,7 +6,7 @@
 
 	File: qa-lang/de/qa-lang-main.php
 	Version: 1.8
-	Date: 2019-09-19
+	Date: 2019-09-25
 	Description: Language phrases commonly used throughout Q2A in German
 	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
 
@@ -225,17 +225,15 @@
 		'x_votes' => '^ Punkte',
 		'x_weeks' => '^ Wochen',
 		'x_years' => '^ Jahren',
+	  	'_decimal_point' => ".",
+    		'_millions_suffix' => "m",
+    		'_thousands_separator' => ",",
+    		'_thousands_suffix' => "k",
+    		'newest_users' => "Neueste Nutzende",
+    		'vote_disabled_hidden_post' => "Sie können versteckte Einträge nicht bewerten",
+    		'vote_disabled_my_post' => "Sie können eigene Einträge nicht bewerten",
+    		'vote_disabled_queued' => "Sie können nur bestätigte Einträge bewerten",
 	);
-    '_decimal_point' => ".",
-    '_millions_suffix' => "m",
-    '_thousands_separator' => ",",
-    '_thousands_suffix' => "k",
-    'newest_users' => "Neueste Nutzende",
-    'vote_disabled_hidden_post' => "Sie können versteckte Einträge nicht bewerten",
-    'vote_disabled_my_post' => "Sie können eigene Einträge nicht bewerten",
-    'vote_disabled_queued' => "Sie können nur bestätigte Einträge bewerten",
-
-
 /*
 	Omit PHP closing tag to help avoid accidental output
 */
