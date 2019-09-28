@@ -1,13 +1,13 @@
 <?php
 /*
-    Question2Answer by Gideon Greenspan and contributors
-    http://www.question2answer.org/
+        Question2Answer by Gideon Greenspan and contributors
+        http://www.question2answer.org/
 
-    File: qa-lang/de/qa-lang-admin.php
-    Version: 1.8
-    Date: 2019-09-19
-    Description: Language phrases for admin center in formal German (Sie)
-    Translation: Fulgor@github
+        File: qa-lang/de/qa-lang-admin.php
+        Version: 1.8
+        Date: 2019-09-28
+        Description: Language phrases for admin center in formal German (Sie)
+        Translation: Fulgor@github
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -206,11 +206,11 @@ return array(
 	'recalc_categories_backpaths' => 'URL-Pfade für Kategorie ^1 von ^2 neu berechnen...',
 	'recalc_categories_complete' => 'Alle Kategorie wurden erfolgreich neu berechnet.',
 	'recalc_categories_note' => ' - für Eintragskategorie und Kategoriezähler',
-	'recalc_categories_recounting' => 'Recounting questions for ^1 of ^2 categories...',
-	'recalc_categories_updated' => 'Recalculated for ^1 of ^2 posts...',
-	'recalc_hotness_q_view_note' => 'May slightly improve page speed if disabled, but hotness values will become out of date if views are included in hotness settings',
-	'recalc_points' => 'Recalculate user points',
-	'recalc_points_complete' => 'All user points were successfully recalculated.',
+	'recalc_categories_recounting' => 'Neuberechnung der Fragen aus Kategorie ^1 von ^2 ...',
+	'recalc_categories_updated' => 'Neuberechnung der Einträge ^1 von ^2 ...',
+	'recalc_hotness_q_view_note' => 'Kann Seitenaufbau etwas schneller machen, wenn ausgeschaltet. Allerdings werden die Hotness-Werte nicht aktuell sein, wenn die Aufrufe in den Hotness-Einstellungen berücksichtigt werden.',
+	'recalc_points' => 'Neuberechnung der Punktwerte der Nutzenden',
+	'recalc_points_complete' => 'Punktwerte der Nutzenden wurden erfolgreich neu berechnet.',
 	'recalc_points_note' => ' - for user ranking and points displays',
 	'recalc_points_recalced' => 'Recalculated for ^1 of ^2 users...',
 	'recalc_points_usercount' => 'Estimating total number of users...',
@@ -290,3 +290,7 @@ return array(
 	'widget_pages_explanation' => 'Show widget in this position on the following pages:',
 	'widgets_explanation' => 'Available widgets:',
 );
+
+/*
+ 	 Omit PHP closing tag to help avoid accidental output
+*/
