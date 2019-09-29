@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-admin.php
         Version: 1.8
-        Date: 2019-09-28
+        Date: 2019-09-29
         Description: Language phrases for admin center in formal German (Sie)
         Translation: Fulgor@github
 
@@ -211,9 +211,9 @@ return array(
 	'recalc_hotness_q_view_note' => 'Kann Seitenaufbau etwas schneller machen, wenn ausgeschaltet. Allerdings werden die Hotness-Werte nicht aktuell sein, wenn die Aufrufe in den Hotness-Einstellungen berücksichtigt werden.',
 	'recalc_points' => 'Neuberechnung der Punktwerte der Nutzenden',
 	'recalc_points_complete' => 'Punktwerte der Nutzenden wurden erfolgreich neu berechnet.',
-	'recalc_points_note' => ' - for user ranking and points displays',
-	'recalc_points_recalced' => 'Recalculated for ^1 of ^2 users...',
-	'recalc_points_usercount' => 'Estimating total number of users...',
+	'recalc_points_note' => ' - für die Darstellung von Rang und Punkten der Nutzenden',
+	'recalc_points_recalced' => 'Neuberechnung für Nutzenden ^1 von ^2 ...',
+	'recalc_points_usercount' => 'Schätze Gesamtzahl der Nutzenden ...',
 	'recalc_posts_count' => 'Getting total number of questions, answers and comments...',
 	'recalc_stop' => 'Stop recalculating',
 	'recent_approve_title' => 'Recent content waiting for approval',
