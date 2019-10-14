@@ -1,10 +1,14 @@
 <?php
 /*
-	Question2Answer by Gideon Greenspan and contributors
-	http://www.question2answer.org/
+        Question2Answer by Gideon Greenspan and contributors
+        http://www.question2answer.org/
 
-	Description: Language phrases for all options, as shown in admin center
-
+        File: qa-lang/de/qa-lang-options.php
+        Version: 1.8
+        Date: 2019-10-14
+        Description: Language phrases for all options, as shown in admin center
+                     in formal German (Sie)
+        Translation: Fulgor@github
 
 	This program is free software; you can redistribute it and/or
 	modify it under the terms of the GNU General Public License
@@ -20,16 +24,17 @@
 */
 
 return array(
-	'allow_anonymous_naming' => 'Allow anonymous posters to specify their name:',
-	'allow_change_usernames' => 'Allow users with posts to change their username:',
-	'allow_close_questions' => 'Allow questions to be manually closed:',
-	'allow_close_own_questions' => 'Allow users to close their own questions:',
-	'allow_login_email_only' => 'Only log in by email address (not username):',
-	'allow_multi_answers' => 'Allow multiple answers per user:',
-	'allow_no_category' => 'Allow questions with no category',
-	'allow_no_sub_category' => 'Allow questions with a category but no sub-category',
-	'allow_private_messages' => 'Enable private messaging between users:',
-	'allow_self_answer' => 'Allow users to answer their own question:',
+	'allow_anonymous_naming' => 'Anonymen Nutzern erlauben, beim Posten ihren Namen anzugeben:',
+	'allow_change_usernames' => 'Erlaubt Nutzern mit Beiträgen, ihren Nutzernamen zu ändern:',
+	'allow_close_questions' => 'Fragen können manuell geschlossen werden:',
+	'allow_close_own_questions' => 'Erlaube Nutzern, ihre eigenen Fragen zu schließen:',
+	'allow_login_email_only' => 'Nur mit E-Mail-Adresse  anmelden (nicht mit Nutzername):',
+	'allow_multi_answers' => 'Erlaube mehrere Antworten pro Benutzer:',
+	'allow_no_category' => 'Erlaube Fragen ohne Kategorie',
+	'allow_no_sub_category' => 'Erlaube Fragen mit einer Kategorie, aber keiner Unterkategorie',
+	'allow_private_messages' => 'Erlaube private Nachrichten zwischen Nutzern:',
+	'allow_self_answer' => 'Erlaube Nutzern, ihre eigene Frage zu beantworten:',
+
 	'allow_user_walls' => 'Enable wall posts on user profiles:',
 	'allow_view_q_bots' => 'Allow search engines to view question pages',
 	'approve_user_required' => 'All new users must be approved:', // @deprecated
@@ -304,3 +309,7 @@ return array(
 	'voting_on_q_page_only' => 'Allow voting on question page only:',
 	'voting_on_qs' => 'Allow voting on questions:',
 );
+
+/*
+ 	 Omit PHP closing tag to help avoid accidental output
+*/
