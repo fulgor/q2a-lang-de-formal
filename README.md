@@ -9,7 +9,8 @@ https://www.question2answer.org/
 * Added new strings from Q2A version 1.8 to language pack of Q2A version 1.7.
 * Frontend: new strings of 1.8 are translated.
 * Backend: `qa-lang-admin.php` and `qa-lang-options.php` of 1.8 included.
-* Started translation of `qa-lang-admin.php`.
+* Finished translation of `qa-lang-admin.php`.
+* Started translation of `qa-lang-options.php`.
 
 ## How to install language pack: ##
 
