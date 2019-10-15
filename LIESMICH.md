@@ -4,7 +4,7 @@ Deutsche Sprachdatei für Question2Answer (Q2A) Version 1.8
 https://www.question2answer.org/
 
 ## Projekt-Status: ##
-**Diese Dateien funktionieren unter Q2A-Version 1.8 im Frontend. (Backend ist noch nicht vollständig übersetzt.)**
+**Diese Dateien funktionieren unter Q2A-Version 1.8 im Frontend. (Backend ist in Arbeit.)**
 
 * Sprachdateien von Q2A-Version 1.7 um neue Strings der Version 1.8 ergänzt.
 * Frontend: Übersetzung der neuen Strings abgeschlossen.
