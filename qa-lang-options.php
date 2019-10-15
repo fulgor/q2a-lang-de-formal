@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-10-14
+        Date: 2019-10-15
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -34,27 +34,27 @@ return array(
 	'allow_no_sub_category' => 'Erlaube Fragen mit einer Kategorie, aber keiner Unterkategorie',
 	'allow_private_messages' => 'Erlaube private Nachrichten zwischen Nutzern:',
 	'allow_self_answer' => 'Erlaube Nutzern, ihre eigene Frage zu beantworten:',
+	'allow_user_walls' => 'Wandbeiträge in Nutzerprofilen aktivieren:',
+	'allow_view_q_bots' => 'Erlaube Suchmaschinen, Frageseiten anzuzeigen',
+	'approve_user_required' => 'Alle neuen Benutzer müssen bestätigt werden:', // @deprecated
+	'avatar_allow_gravatar' => 'Erlaube Avatare von ^1Gravatar^2:',
+	'avatar_allow_upload' => 'Erlaube Benutzern das Hochladen von Avataren:',
+	'avatar_default_show' => 'Standard Avatar:',
+	'avatar_message_list_size' => 'Avatar-Größe in Nachrichtenlisten:',
+	'avatar_profile_size' => 'Avatar-Größe im Nutzerprofil:',
+	'avatar_q_list_size' => 'Avatar-Größe in Fragenliste:',
+	'avatar_q_page_a_size' => 'Avatar-Größe bei Antworten:',
+	'avatar_q_page_c_size' => 'Avatar-Größe bei Kommentaren:',
+	'avatar_q_page_q_size' => 'Avatar-Größe bei Fragen:',
+	'avatar_store_size' => 'Maximale Dateigröße für Avatare:',
+	'avatar_users_size' => 'Avatar-Größe auf Seite der Top-Nutzer:',
+	'block_bad_usernames' => 'Verbotene Nutzernamen - getrennt durch Leerzeichen oder Komma:',
+	'block_bad_words' => 'Zensierte Wörter - getrennt durch Leerzeichen oder Komma:',
+	'block_ips_write' => 'Geblockte IP-Addressen - getrennt durch Leerzeichen oder Komma:',
+	'caching_catwidget_time' => 'Cache Kategorie-Widget für:',
+	'caching_enabled' => 'Aktiviere Caching:',
+	'caching_driver' => 'Caching-Treiber',
 
-	'allow_user_walls' => 'Enable wall posts on user profiles:',
-	'allow_view_q_bots' => 'Allow search engines to view question pages',
-	'approve_user_required' => 'All new users must be approved:', // @deprecated
-	'avatar_allow_gravatar' => 'Allow ^1Gravatar^2 avatars:',
-	'avatar_allow_upload' => 'Allow users to upload avatars:',
-	'avatar_default_show' => 'Default avatar:',
-	'avatar_message_list_size' => 'Avatar size on message lists:',
-	'avatar_profile_size' => 'Avatar size on user profile page:',
-	'avatar_q_list_size' => 'Avatar size on question lists:',
-	'avatar_q_page_a_size' => 'Avatar size on answers:',
-	'avatar_q_page_c_size' => 'Avatar size on comments:',
-	'avatar_q_page_q_size' => 'Avatar size on questions:',
-	'avatar_store_size' => 'Maximum size for storing avatars:',
-	'avatar_users_size' => 'Avatar size on top users page:',
-	'block_bad_usernames' => 'Disallowed usernames - separate by spaces or commas:',
-	'block_bad_words' => 'Censored words - separate by spaces or commas:',
-	'block_ips_write' => 'Blocked IP addresses - separate by spaces or commas:',
-	'caching_catwidget_time' => 'Cache category widget for:',
-	'caching_enabled' => 'Enable caching:',
-	'caching_driver' => 'Caching driver',
 	'caching_filesystem' => 'Filesystem',
 	'caching_memcached' => 'Memcached',
 	'caching_q_start' => 'Start caching questions after:',
