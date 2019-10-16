@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-10-15
+        Date: 2019-10-16
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -54,27 +54,27 @@ return array(
 	'caching_catwidget_time' => 'Cache Kategorie-Widget für:',
 	'caching_enabled' => 'Aktiviere Caching:',
 	'caching_driver' => 'Caching-Treiber',
-
-	'caching_filesystem' => 'Filesystem',
+	'caching_filesystem' => 'Dateisystem',
 	'caching_memcached' => 'Memcached',
-	'caching_q_start' => 'Start caching questions after:',
-	'caching_q_time' => 'Cache question pages for:',
-	'caching_qlist_time' => 'Cache question lists for:',
-	'captcha_module' => 'Use captcha module:',
-	'captcha_on_anon_post' => 'Use captcha for anonymous posts:',
-	'captcha_on_feedback' => 'Use captcha on feedback form:',
-	'captcha_on_register' => 'Use captcha for user registration:',
-	'captcha_on_reset_password' => 'Use captcha on reset password form:',
-	'captcha_on_unapproved' => 'Use captcha if user not yet approved:',
-	'captcha_on_unconfirmed' => 'Use captcha if email not confirmed:',
-	'columns_tags' => 'Columns on Tags page:',
-	'columns_users' => 'Columns on Users page:',
-	'comment_on_as' => 'Allow comments on answers:',
-	'comment_on_qs' => 'Allow comments on questions:',
-	'confirm_user_emails' => 'Request confirmation of user emails:',
-	'confirm_user_required' => 'All new users must confirm their email:',
-	'custom_home_content' => 'Home page content - HTML allowed:',
-	'custom_home_heading' => 'Home page heading:',
+	'caching_q_start' => 'Beginne Fragen zu cachen nach:',
+	'caching_q_time' => 'Cache Fragenseiten für:',
+	'caching_qlist_time' => 'Cache Fragenlisten für:',
+	'captcha_module' => 'Captcha-Module verwenden:',
+	'captcha_on_anon_post' => 'Verwende Captcha für anonyme Beiträge:',
+	'captcha_on_feedback' => 'Verwende Captcha im Feedback-Formular:',
+	'captcha_on_register' => 'Verwende Captcha für die Nutzerregistrierung:',
+	'captcha_on_reset_password' => 'Verwende Captcha im Formular um Passwort zurückzusetzen:',
+	'captcha_on_unapproved' => 'Verwende Captcha falls Nutzer noch nicht bestätigt ist:',
+	'captcha_on_unconfirmed' => 'Verwende Captcha falls E-Mail noch nicht bestätigt ist:',
+	'columns_tags' => 'Spalten auf Etikettseite:',
+	'columns_users' => 'Spalten auf Nutzerseite:',
+	'comment_on_as' => 'Erlaube Kommentare zu Antworten:',
+	'comment_on_qs' => 'Erlaube Kommentare zu Fragen:',
+	'confirm_user_emails' => 'Erwarte Bestätigung der Nutzer-E-Mail:',
+	'confirm_user_required' => 'Alle neuen Nutzer müssen ihre E-Mail bestätigen:',
+	'custom_home_content' => 'Inhalt der Homepage - HTML erlaubt:',
+	'custom_home_heading' => 'Überschrift der Homepage:',
+
 	'default_privacy' => 'Privacy: Your email address will not be shared or sold to third parties.',
 	'default_sidebar' => 'Welcome to ^, where you can ask questions and receive answers from other members of the community.',
 	'default_subject' => 'A message from ^',
