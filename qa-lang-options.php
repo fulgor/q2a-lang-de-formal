@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-10-18
+        Date: 2019-10-21
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -98,26 +98,26 @@ return array(
 	'feed_for_search' => 'Feeds für Suchergebnisse:',
 	'feed_for_tag_qs' => 'Feed für Fragen zu jedem Etikett:',
 	'feed_for_unanswered' => 'Feed für unbeantwortete Fragen:',
+	'feed_full_text' => 'Volltext in Feeds aufnehmen:',
+	'feed_number_items' => 'Maximale Länge der Feeds:',
+	'feed_per_category' => 'Einzelne Feeds pro Kategorie:',
+	'feedback_email' => 'E-Mail-Adresse für Admin-Nachrichten - wird Nutzern nicht angezeigt:',
+	'feedback_enabled' => 'Stellen Sie eine Seite zur Verfügung, auf der Nutzer Feedback senden können',
+	'flagging_hide_after' => 'Beiträge automatisch ausblenden, die erreichen:', 
+	'flagging_notify_every' => 'E-Mail an mich nach jedem weiteren:',
+	'flagging_notify_first' => 'E-Mail an mich, wenn ein Beitrag ankommt:',
+	'flagging_of_posts' => 'Erlauben, dass Beiträge markiert werden:',
+	'follow_on_as' => 'Fragen dürfen mit Antworten in Beziehung gesetzt werden:',
+	'from_email' => 'Absenderadresse für Nachrichten von der Seite:',
+	'hot_weight_a_age' => 'Frage hat eine neue Antwort:',
+	'hot_weight_answers' => 'Frage hat viele neue Antworten:',
+	'hot_weight_q_age' => 'Frage ist neu:',
+	'hot_weight_views' => 'Frage wurde häufig aufgerufen:',
+	'hot_weight_votes' => 'Frage hat viele positive Bewertungen:',
+	'links_in_new_window' => 'Verknüpfte URLs in einem neuen Fenster öffnen:',
+	'logo_height' => 'Logo Höhe:',
+	'logo_show' => 'Ein Logo-Bild im Seitenkopf anzeigen',
 
-	'feed_full_text' => 'Include full text in feeds:',
-	'feed_number_items' => 'Maximum length of feeds:',
-	'feed_per_category' => 'Individual feeds per category:',
-	'feedback_email' => 'Email address for admin messages - not shown to users:',
-	'feedback_enabled' => 'Provide a page for users to send feedback',
-	'flagging_hide_after' => 'Automatically hide posts which reach:',
-	'flagging_notify_every' => 'Email me again after every additional:',
-	'flagging_notify_first' => 'Email me if a post receives:',
-	'flagging_of_posts' => 'Allow posts to be flagged:',
-	'follow_on_as' => 'Allow questions to be related to answers:',
-	'from_email' => 'Sender address for messages from site:',
-	'hot_weight_a_age' => 'Question has a new answer:',
-	'hot_weight_answers' => 'Question has many answers:',
-	'hot_weight_q_age' => 'Question is new:',
-	'hot_weight_views' => 'Question has many views:',
-	'hot_weight_votes' => 'Question has many up votes:',
-	'links_in_new_window' => 'Open linked URLs in a new window:',
-	'logo_height' => 'Logo height:',
-	'logo_show' => 'Show a logo image in the page header',
 	'logo_url' => 'URL of logo - absolute or relative to Q2A root:',
 	'logo_width' => 'Logo width:',
 	'mailing_body' => 'Body text:',
