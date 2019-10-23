@@ -5,7 +5,7 @@
 
     File: qa-lang/de/qa-lang-admin.php
     Version: 1.8
-    Date: 2019-10-14
+    Date: 2019-10-23
     Description: Language phrases for admin center in formal German (Sie)
     Translation: Fulgor@github
 
@@ -253,10 +253,10 @@ return array(
 	'start_mailing_button' => 'Starte E-Mail-Versand',
 	'stats_title' => 'Statistik',
 	'stop_recalc_warning' => 'Die Datenbank wird gerade bereinigt. Der Vorgang wird unterbrochen, wenn Sie das Fenster jetzt schliessen.',
-	'tag_pages' => 'Etikett Seiten',
-	'tags' => 'Etiketten',
-	'tags_and_categories' => 'Etiketten und Kategorien',
-	'tags_not_shown' => 'Einige Fragen haben Etiketten, die nicht angezeigt werden.',
+	'tag_pages' => 'Schlagwort-Seiten',
+	'tags' => 'Schlagworte',
+	'tags_and_categories' => 'Schlagworte und Kategorien',
+	'tags_not_shown' => 'Einige Fragen haben Schlagworte, die nicht angezeigt werden.',
 	'test_sent_to_x' => 'Die Testnachricht wurde gesendet an ^',
 	'title_already_used' => 'Dieser Wert wird bereits von einem anderen Titel genutzt',
 	'top_level_categories' => 'Kategorien der obersten Ebene:',
@@ -266,7 +266,7 @@ return array(
 	'total_qs_unans' => 'Unbeantwortete Fragen insgesamt:',
 	'unnamed_plugin' => 'Unbenanntes Plugin',
 	'upgrade_db' => 'Ihre Question2Answer-Datenbank muss für diese Version ^1aktualisiert^2 werden.',
-	'url_format_note' => 'Optionen mit dem Label ^ lassen sich in Ihrer Website einstellen. Für die beste Suchmaschinenoptimierung (SEO) verwenden Sie die erste verfügbare ^ Option.',
+	'url_format_note' => 'Optionen mit dem Etikett ^ lassen sich in Ihrer Website einstellen. Für die beste Suchmaschinenoptimierung (SEO) verwenden Sie die erste verfügbare ^ Option.',
 	'user_pages' => 'Nutzerseiten',
 	'user_title' => 'Nutzertitel - HTML möglich:',
 	'user_titles' => 'Nutzertitel basierend auf Punkten:',
