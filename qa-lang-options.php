@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-10-21
+        Date: 2019-10-24
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -66,7 +66,7 @@ return array(
 	'captcha_on_reset_password' => 'Verwende Captcha im Formular um Passwort zurückzusetzen:',
 	'captcha_on_unapproved' => 'Verwende Captcha falls Nutzer noch nicht bestätigt ist:',
 	'captcha_on_unconfirmed' => 'Verwende Captcha falls E-Mail noch nicht bestätigt ist:',
-	'columns_tags' => 'Spalten auf Etikettseite:',
+	'columns_tags' => 'Spalten auf Schlagwortseite:',
 	'columns_users' => 'Spalten auf Nutzerseite:',
 	'comment_on_as' => 'Erlaube Kommentare zu Antworten:',
 	'comment_on_qs' => 'Erlaube Kommentare zu Fragen:',
@@ -81,9 +81,9 @@ return array(
 	'default_terms' => 'Ich stimme den ^ Allgemeinen Geschäftsbedingungen und der Datenschutzerklärung zu.',
 	'do_ask_check_qs' => 'Nach ähnlichen Fragen suchen, wenn Sie fragen:',
 	'do_close_on_select' => 'Fragen mit einer ausgewählten Antwort schließen:',
-	'do_complete_tags' => 'Zeige passende Etiketten während der Eingabe:',
+	'do_complete_tags' => 'Zeige passende Schlagworte während der Eingabe:',
 	'do_count_q_views' => 'Anzahl der Frageaufrufe zählen:',
-	'do_example_tags' => 'Beispiel-Etiketten basierend auf Frage anzeigen:',
+	'do_example_tags' => 'Beispiel-Schlagworte basierend auf Frage anzeigen:',
 	'editor_for_as' => 'Standardeditor für Antworten:',
 	'editor_for_cs' => 'Standardeditor für Kommentare:',
 	'editor_for_qs' => 'Standardeditor für Fragen:',
@@ -96,7 +96,7 @@ return array(
 	'feed_for_qa' => 'Feed für aktuelle Fragen und Antworten:',
 	'feed_for_questions' => 'Feed für aktuelle Fragen:',
 	'feed_for_search' => 'Feeds für Suchergebnisse:',
-	'feed_for_tag_qs' => 'Feed für Fragen zu jedem Etikett:',
+	'feed_for_tag_qs' => 'Feed für Fragen zu jedem Schlagwort:',
 	'feed_for_unanswered' => 'Feed für unbeantwortete Fragen:',
 	'feed_full_text' => 'Volltext in Feeds aufnehmen:',
 	'feed_number_items' => 'Maximale Länge der Feeds:',
@@ -117,22 +117,22 @@ return array(
 	'links_in_new_window' => 'Verknüpfte URLs in einem neuen Fenster öffnen:',
 	'logo_height' => 'Logo Höhe:',
 	'logo_show' => 'Ein Logo-Bild im Seitenkopf anzeigen',
-
-	'logo_url' => 'URL of logo - absolute or relative to Q2A root:',
-	'logo_width' => 'Logo width:',
+	'logo_url' => 'URL des Logos - absolut oder relativ zur Q2A-Root:',
+	'logo_width' => 'Logo-Breite:',
 	'mailing_body' => 'Body text:',
-	'mailing_enabled' => 'Enable mass mailings to all users',
-	'mailing_from_email' => 'From email address:',
-	'mailing_from_name' => 'From name:',
-	'mailing_per_minute' => 'Maximum mailing rate:',
-	'mailing_subject' => 'Subject line:',
-	'match_1' => 'Narrowest',
-	'match_2' => 'Narrower',
-	'match_3' => 'Default',
-	'match_4' => 'Wider',
-	'match_5' => 'Widest',
-	'match_ask_check_qs' => 'Similar questions matching:',
-	'match_example_tags' => 'Example tags matching:',
+	'mailing_enabled' => 'Massenmailings für alle Benutzer aktivieren',
+	'mailing_from_email' => 'Von E-Mail-Adresse:',
+	'mailing_from_name' => 'Von Name:',
+	'mailing_per_minute' => 'Maximale Mailing-Rate:',
+	'mailing_subject' => 'Betreffzeile:',
+	'match_1' => 'Schmalster',
+	'match_2' => 'Schmaler',
+	'match_3' => 'Standard',
+	'match_4' => 'Breiter',
+	'match_5' => 'Am breitesten',
+	'match_ask_check_qs' => 'Ähnliche Fragen, die übereinstimmen:',
+	'match_example_tags' => 'Beispiel-Schlagworte, die übereinstimmen:',
+
 	'match_related_qs' => 'Related questions matching:',
 	'max_len_q_title' => 'Maximum length of question title:',
 	'max_num_q_tags' => 'Maximum number of tags:',
