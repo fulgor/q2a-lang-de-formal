@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-10-24
+        Date: 2019-10-26
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -132,26 +132,26 @@ return array(
 	'match_5' => 'Am breitesten',
 	'match_ask_check_qs' => 'Ähnliche Fragen, die übereinstimmen:',
 	'match_example_tags' => 'Beispiel-Schlagworte, die übereinstimmen:',
+	'match_related_qs' => 'Verwandte Fragen, die entsprechen:',
+	'max_len_q_title' => 'Maximale Länge des Frage-Titels:',
+	'max_num_q_tags' => 'Maximale Anzahl von Schlagworten:',
+	'max_rate_ip_as' => 'Bewertungslimit für das Hinzufügen von Antworten:',
+	'max_rate_ip_cs' => 'Bewertungslimit für die Veröffentlichung von Kommentaren:',
+	'max_rate_ip_flags' => 'Bewertungslimit für markierte Beiträge:',
+	'max_rate_ip_logins' => 'Bewertungslimit für die Anmeldung:',
+	'max_rate_ip_messages' => 'Bewertungslimit für private Nachrichten und Wandmeldungen:',
+	'max_rate_ip_qs' => 'Bewertungslimit für Fragen:',
+	'max_rate_ip_registers' => 'Bewertungslimit für Nutzerregistrierungen:',
+	'max_rate_ip_uploads' => 'Bewertungslimit für das Hochladen von Dateien:',
+	'max_rate_ip_votes' => 'Bewertungslimit für das Bewerten:',
+	'max_rate_user_as' => 'Maximale Antworten pro Nutzer und Stunde:',
+	'max_rate_user_cs' => 'Maximale Kommentare pro Nutzer und Stunde:',
+	'max_rate_user_flags' => 'Maximale flags pro Nutzer und Stunde:',
+	'max_rate_user_messages' => 'Maximale private Nachrichten pro Nutzer und Stunde:',
+	'max_rate_user_qs' => 'Maximale Fragen pro Nutzer und Stunde:',
+	'max_rate_user_uploads' => 'Maximale Uploads pro Nutzer und Stunde:',
+	'max_rate_user_votes' => 'Maximale Stimmen pro Nutzer und Stunde:',
 
-	'match_related_qs' => 'Related questions matching:',
-	'max_len_q_title' => 'Maximum length of question title:',
-	'max_num_q_tags' => 'Maximum number of tags:',
-	'max_rate_ip_as' => 'Rate limit for adding answers:',
-	'max_rate_ip_cs' => 'Rate limit for posting comments:',
-	'max_rate_ip_flags' => 'Rate limit for flagging posts:',
-	'max_rate_ip_logins' => 'Rate limit for logging in:',
-	'max_rate_ip_messages' => 'Rate limit for private and wall messages:',
-	'max_rate_ip_qs' => 'Rate limit for asking questions:',
-	'max_rate_ip_registers' => 'Rate limit for user registrations:',
-	'max_rate_ip_uploads' => 'Rate limit for uploading files:',
-	'max_rate_ip_votes' => 'Rate limit for voting:',
-	'max_rate_user_as' => 'Maximum answers per user per hour:',
-	'max_rate_user_cs' => 'Maximum comments per user per hour:',
-	'max_rate_user_flags' => 'Maximum flags per user per hour:',
-	'max_rate_user_messages' => 'Maximum private messages per user per hour:',
-	'max_rate_user_qs' => 'Maximum questions per user per hour:',
-	'max_rate_user_uploads' => 'Maximum uploads per user per hour:',
-	'max_rate_user_votes' => 'Maximum votes per user per hour:',
 	'min_len_a_content' => 'Minimum length of answer:',
 	'min_len_c_content' => 'Minimum length of comment:',
 	'min_len_q_content' => 'Minimum length of question body:',
