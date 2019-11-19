@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-10-26
+        Date: 2019-11-19
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -151,20 +151,20 @@ return array(
 	'max_rate_user_qs' => 'Maximale Fragen pro Nutzer und Stunde:',
 	'max_rate_user_uploads' => 'Maximale Uploads pro Nutzer und Stunde:',
 	'max_rate_user_votes' => 'Maximale Stimmen pro Nutzer und Stunde:',
-
-	'min_len_a_content' => 'Minimum length of answer:',
-	'min_len_c_content' => 'Minimum length of comment:',
-	'min_len_q_content' => 'Minimum length of question body:',
-	'min_len_q_title' => 'Minimum length of question title:',
-	'min_num_q_tags' => 'Minimum number of tags:',
+	'min_len_a_content' => 'Mindestlänge der Antwort:',
+	'min_len_c_content' => 'Mindestlänge des Kommentars:',
+	'min_len_q_content' => 'Mindestlänge der Ausführungen zur Frage:',
+	'min_len_q_title' => 'Mindestlänge der Frage-Überschrift:',
+	'min_num_q_tags' => 'Mindestanzahl der Schlüsselworte:',
 	'minify_html' => 'Minify HTML:',
-	'moderate_anon_post' => 'Use moderation for anonymous posts:',
-	'moderate_by_points' => 'Use moderation for users with few points:',
-	'moderate_edited_again' => 'Re-moderate posts after editing:',
-	'moderate_notify_admin' => 'Email me when a post needs moderation:',
-	'moderate_points_limit' => 'Use moderation for users with less than:',
-	'moderate_unapproved' => 'Use moderation if user not yet approved:',
-	'moderate_unconfirmed' => 'Use moderation if email not confirmed:',
+	'moderate_anon_post' => 'Anonyme Beiträge moderieren:',
+	'moderate_by_points' => 'Nutzende mit wenigen Punkten moderieren:',
+	'moderate_edited_again' => 'Beiträge nach Veränderung erneut moderieren:',
+	'moderate_notify_admin' => 'E-Mail an mich, wenn ein Beitrag moderiert werden muss:',
+	'moderate_points_limit' => 'Moderieren bei Nutzenden mit weniger als:',
+	'moderate_unapproved' => 'Moderieren bei Nutzenden, die noch nicht bestätigt sind:',
+	'moderate_unconfirmed' => 'Moderieren bei Nutzenden ohne E-Mail-Bestätigung:',
+
 	'moderate_update_time' => 'Time to show on moderated posts:',
 	'moderate_users' => 'Enable moderation (approval) of users:',
 	'neat_urls' => 'URL structure:',
