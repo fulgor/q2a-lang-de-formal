@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-11-19
+        Date: 2019-12-07
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -164,23 +164,23 @@ return array(
 	'moderate_points_limit' => 'Moderieren bei Nutzenden mit weniger als:',
 	'moderate_unapproved' => 'Moderieren bei Nutzenden, die noch nicht bestätigt sind:',
 	'moderate_unconfirmed' => 'Moderieren bei Nutzenden ohne E-Mail-Bestätigung:',
+	'moderate_update_time' => 'Zeit zum Anzeigen in moderierten Beiträgen:',
+	'moderate_users' => 'Aktiviere Moderation (Freigabe) der Nutzenden:',
+	'neat_urls' => 'Aufbau der URL:',
+	'notify_admin_q_post' => 'Senden Sie diese Adresse per E-Mail, wenn eine Frage gestellt wird',
+	'notify_users_default' => 'Benachrichtigungsfeld E-Mail standardmäßig aktivieren:',
+	'option_default' => 'Standard',
+	'page_size_activity' => 'Länge der Alle-Aktivitäten-Seite:',
+	'page_size_ask_check_qs' => 'Maximale Anzahl ähnlicher Fragen, die angezeigt werden:',
+	'page_size_ask_tags' => 'Maximale Anzahl Schlagwort-Tipps, die angezeigt werden:',
+	'page_size_home' => 'Länge der Q&A-Seite:',
+	'page_size_hot_qs' => 'Länge der Hot-Seite:',
+	'page_size_pms' => 'Private Nachrichten pro Seite:',
+	'page_size_q_as' => 'Maximale Anzahl Antworten pro Seite:',
+	'page_size_qs' => 'Länge der Fragen Seite:',
+	'page_size_related_qs' => 'Maximale Anzahl verwandte Fragen:',
+	'page_size_search' => 'Suchergebnisse pro Seite:',
 
-	'moderate_update_time' => 'Time to show on moderated posts:',
-	'moderate_users' => 'Enable moderation (approval) of users:',
-	'neat_urls' => 'URL structure:',
-	'notify_admin_q_post' => 'Email this address when a question is posted',
-	'notify_users_default' => 'Check email notification box by default:',
-	'option_default' => 'Default',
-	'page_size_activity' => 'Length of All Activity page:',
-	'page_size_ask_check_qs' => 'Maximum similar questions to show:',
-	'page_size_ask_tags' => 'Maximum tag hints to show:',
-	'page_size_home' => 'Length of Q&A page:',
-	'page_size_hot_qs' => 'Length of Hot! page:',
-	'page_size_pms' => 'Private messages per page:',
-	'page_size_q_as' => 'Maximum answers per page:',
-	'page_size_qs' => 'Length of Questions page:',
-	'page_size_related_qs' => 'Maximum related questions:',
-	'page_size_search' => 'Search results per page:',
 	'page_size_tag_qs' => 'Questions on each tag page:',
 	'page_size_tags' => 'Length of Tags page:',
 	'page_size_una_qs' => 'Length of Unanswered page:',
