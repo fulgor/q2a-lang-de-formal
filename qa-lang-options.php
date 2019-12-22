@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-12-07
+        Date: 2019-12-22
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -180,18 +180,18 @@ return array(
 	'page_size_qs' => 'Länge der Fragen Seite:',
 	'page_size_related_qs' => 'Maximale Anzahl verwandte Fragen:',
 	'page_size_search' => 'Suchergebnisse pro Seite:',
+	'page_size_tag_qs' => 'Fragen zu jeder Schlagwort-Seite:',
+	'page_size_tags' => 'Länge der Schlagwort-Seite:',
+	'page_size_una_qs' => 'Länge der Seite "unbeantwortet":',
+	'page_size_users' => 'Länge der Nutzer-Seite:',
+	'page_size_wall' => 'Wand-Einträge pro Seite:',
+	'pages_prev_next' => 'Links zu vorherigen/nächsten Seiten:',
+	'permit_admins' => 'Administratoren',
+	'permit_all' => 'Jede/r',
+	'permit_approve_users' => 'Registrierte Nutzer genehmigen:',
+	'permit_approved' => 'Nur registrierte Nutzer',
+	'permit_approved_points' => 'Registrierte Nutzer mit genügend Punkten',
 
-	'page_size_tag_qs' => 'Questions on each tag page:',
-	'page_size_tags' => 'Length of Tags page:',
-	'page_size_una_qs' => 'Length of Unanswered page:',
-	'page_size_users' => 'Length of Users page:',
-	'page_size_wall' => 'Wall posts per page:',
-	'pages_prev_next' => 'Links to previous/next pages:',
-	'permit_admins' => 'Administrators',
-	'permit_all' => 'Anybody',
-	'permit_approve_users' => 'Approving registered users:',
-	'permit_approved' => 'Approved users only',
-	'permit_approved_points' => 'Approved users with enough points',
 	'permit_block' => 'Blocking or unblocking user or IPs:',
 	'permit_confirmed' => 'Registered users with email confirmed',
 	'permit_create_admins' => 'Creating administrators:',
