@@ -5,7 +5,7 @@
 
         File: qa-lang/de/qa-lang-options.php
         Version: 1.8
-        Date: 2019-12-22
+        Date: 2019-12-26
         Description: Language phrases for all options, as shown in admin center
                      in formal German (Sie)
         Translation: Fulgor@github
@@ -191,25 +191,25 @@ return array(
 	'permit_approve_users' => 'Registrierte Nutzer genehmigen:',
 	'permit_approved' => 'Nur registrierte Nutzer',
 	'permit_approved_points' => 'Registrierte Nutzer mit genügend Punkten',
+	'permit_block' => 'Sperren oder Entsperren von Nutzern oder IPs:',
+	'permit_confirmed' => 'Registrierte Nutzer mit bestätigter E-Mail',
+	'permit_create_admins' => 'Administratoren anlegen:',
+	'permit_create_eds_mods' => 'Editoren und Moderatoren anlegen:',
+	'permit_create_experts' => 'Experten anlegen:',
+	'permit_delete_users' => 'Nutzer löschen:',
+	'permit_editors' => 'Redakteure, Moderatoren, Administratoren',
+	'permit_experts' => 'Experten, Redakteure, Moderatoren, Administratoren',
+	'permit_moderators' => 'Moderatoren und Administratoren',
+	'permit_points' => 'Registrierte Nutzer mit genügend Punkten',
+	'permit_points_confirmed' => 'Registriert & E-Mail bestätigt & genügend Punkte',
+	'permit_see_emails' => 'E-Mail-Adressen der Nutzer anzeigen:',
+	'permit_supers' => 'Super-Administratoren',
+	'permit_users' => 'Registrierte Nutzer',
+	'place_full_below_content' => 'Volle Breite - unterhalb des Inhalts',
+	'place_full_below_footer' => 'Volle Breite - unterhalb der Fußzeile',
+	'place_full_below_nav' => 'Volle Breite - unterhalb der Navigation',
+	'place_full_top' => 'Volle Breite - Oben auf der Seite',
 
-	'permit_block' => 'Blocking or unblocking user or IPs:',
-	'permit_confirmed' => 'Registered users with email confirmed',
-	'permit_create_admins' => 'Creating administrators:',
-	'permit_create_eds_mods' => 'Creating editors and moderators:',
-	'permit_create_experts' => 'Creating experts:',
-	'permit_delete_users' => 'Deleting users:',
-	'permit_editors' => 'Editors, Moderators, Admins',
-	'permit_experts' => 'Experts, Editors, Moderators, Admins',
-	'permit_moderators' => 'Moderators and Admins',
-	'permit_points' => 'Registered users with enough points',
-	'permit_points_confirmed' => 'Registered & email confirmed & enough points',
-	'permit_see_emails' => 'Viewing user email addresses:',
-	'permit_supers' => 'Super Administrators',
-	'permit_users' => 'Registered users',
-	'place_full_below_content' => 'Full width - Below content',
-	'place_full_below_footer' => 'Full width - Below footer',
-	'place_full_below_nav' => 'Full width - Below navigation',
-	'place_full_top' => 'Full width - Top of page',
 	'place_main_below_lists' => 'Main area - Below lists',
 	'place_main_below_title' => 'Main area - Below title',
 	'place_main_bottom' => 'Main area - Bottom',
