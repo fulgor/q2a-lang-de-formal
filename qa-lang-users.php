@@ -5,9 +5,9 @@
     Question2Answer by Gideon Greenspan and contributors
     http://www.question2answer.org/
 
-    File: qa-lang/de/qa-lang-question.php
-    Version: 1.8
-    Date: 2019-09-16
+    File: qa-lang/de-DE/qa-lang-question.php
+    Version: 1.8.6
+    Date: 2023-01-21
     Description: Language phrases for question page in German
     Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
 
@@ -121,13 +121,12 @@
 		'remember' => 'Merken',
 		'remember_label' => 'Auf diesem Computer angemeldet bleiben',
 		'remove_avatar' => 'Avatar entfernen:',
-		'reset_code_another' => 'Noch einmal anfordern',
 		'reset_title' => 'Passwort zurücksetzen',
 		'save_profile' => 'Profil speichern',
 		'save_user' => 'Konto speichern',
 		'send_confirm_button' => 'Bestätigungs-Link schicken',
-		'send_password_button' => 'Neues Passwort schicken',
 		'send_reset_note' => 'Ihnen wird per E-Mail eine Anleitung geschickt.',
+		'send_reset_button' => "Sende E-Mail zum Zurücksetzen des Passwortes.",
 		'special_users' => 'Besondere Konten',
 		'terms_not_accepted' => 'Sie müssen das ankreuzen.',
 		'unblock_user_button' => 'Konto entsperren',
