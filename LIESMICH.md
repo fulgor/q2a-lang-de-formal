@@ -1,6 +1,7 @@
 # q2a-lang-de-formal ("Sie")
 
-Deutsche Sprachdatei für Question2Answer (Q2A) Version 1.8
+Deutsche Sprachdatei für Question2Answer (Q2A) Version 1.8.x  
+Getestet bis Version 1.8.6  
 https://www.question2answer.org/
 
 ## Projekt-Status: ##
@@ -16,6 +17,6 @@ https://www.question2answer.org/
 
 * Download letzte Version https://github.com/fulgor/q2a-lang-de-formal/archive/master.zip
 * master.zip entpacken
+* Verzeichnis umbenennen in `de-DE`.
 * Verzeichnis de via FTP in das Verzeichnis `/qa-lang/` kopieren
-* Im Q2A-Adminbereich -> General -> Site language -> German-Deutsch -> Save Options
-* (Löschen Sie `/qa-lang/qa-lang-admin.php` und `/qa-lang/qa-lang-options.php`, um das Backend auf Englisch anzuzeigen.)
+* Im Q2A-Adminbereich -> General -> Site language -> Deutsch (DE) -Sie-Form -> Save Options
