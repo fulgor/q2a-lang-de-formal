@@ -1,7 +1,7 @@
 # q2a-lang-de-formal ("Sie")
 
-German language pack for Question2Answer (Q2A) version 1.8.x
-Tested version: 1.8.6
+German language pack for Question2Answer (Q2A) version 1.8.x  
+Tested version: 1.8.6  
 https://www.question2answer.org/
 
 ## Project-Status: ##
