@@ -5,8 +5,9 @@
 	http://www.question2answer.org/
 
 	File: qa-lang/de/qa-lang-main.php
-	Version: 1.8
-	Date: 2019-09-25
+	Version: 1.8.x
+	Tested: 1.8.6
+	Date: 2023-01-24
 	Description: Language phrases commonly used throughout Q2A in German
 	Translation: Peter Chiochetti, Moritz Bunkus, Philip Schilling, Corinna Baldauf, Fulgor@github
 
@@ -96,7 +97,7 @@
 		'max_upload_size_x' => 'Maximal erlaubt sind ^',
 		'me' => 'mir',
 		'meta_order' => '^what^when^where^who', // sets order of elements like: <answered> <15 hours ago> <in Problems> <by me (500 points)>
-		'min_length_x' => 'Bitte fassen Sie sich ausführlicher - mindestens ^ Zeichen',
+		'min_length_x' => 'Bitte ausführlicher - mindestens ^ Zeichen',
 		'moved' => 'verschoben',
 		'nav_activity' => 'Alle Aktivitäten',
 		'nav_admin' => 'Admin',
