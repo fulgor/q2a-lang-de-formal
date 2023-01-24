@@ -1,6 +1,7 @@
 # q2a-lang-de-formal ("Sie")
 
-German language pack for Question2Answer (Q2A) version 1.8
+German language pack for Question2Answer (Q2A) version 1.8.x
+Tested version: 1.8.6
 https://www.question2answer.org/
 
 ## Project-Status: ##
@@ -16,6 +17,6 @@ https://www.question2answer.org/
 
 * Download https://github.com/fulgor/q2a-lang-de-formal/archive/master.zip
 * Unzip master.zip
+* Rename folder to `de-DE`.
 * Copy folder into `/qa-lang/`folder on server.
-* In Q2A-Admin goto `General -> Site language`, select `German-Deutsch` then `Save Options`.
-* (Delete `/qa-lang/qa-lang-admin.php` and `/qa-lang/qa-lang-options.php`, to show backend in English.)
+* In Q2A-Admin goto `General -> Site language`, select `Deutsch (DE) -Sie-Form` then `Save Options`.
