@@ -112,7 +112,7 @@
 		'private_messages' => 'Private Nachrichten:',
 		'private_messages_explanation' => 'Anderen erlauben mir Nachrichten zu schicken (ohne meine E-Mail-Adresse zu sehen)',
 		'profile_saved' => 'Profil gespeichert',
-		'register_button' => 'Anmelden',
+		'register_button' => 'Registrieren',
 		'register_limit' => 'Zu viele Registrierungsversuche - bitte versuchen Sie es in einer Stunde wieder',
 		'register_suspended' => 'Das Erstellen neuer Konten ist vorübergehend deaktiviert. Bitte versuchen Sie es später wieder.',
 		'register_title' => 'Konto erstellen',
